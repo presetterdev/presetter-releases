@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0-alpha.1",
+  "notes": "v0.3.0-alpha.1",
+  "pub_date": "2026-10-20T11:18:25Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWFFWk5xSnpFTk4vY1lVa1dQN2w2a2xTTDhvNFEyMkx4UE40K3dBQ0M2bUcrQzgva01jYzNmTlhWMks3TjRxSEYvOEVJRVViSGZVS2c1d05xZXZkdUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDcyNDc0CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMC1hbHBoYS4xCnhKY05oQm1ncEpMWkhmcW9Bb3I2YmJidFc5UWVhLzdqZGhtaEhBYUc2ODA5Vk01UWdlMUhzWHBTcUVuZkhyVmZEeUUrUnJrYmMvZEdzNTNGTEExREJBPT0K",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0-alpha.1/Presetter.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWFFWk5xSnpFTk4vY1lVa1dQN2w2a2xTTDhvNFEyMkx4UE40K3dBQ0M2bUcrQzgva01jYzNmTlhWMks3TjRxSEYvOEVJRVViSGZVS2c1d05xZXZkdUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDcyNDc0CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMC1hbHBoYS4xCnhKY05oQm1ncEpMWkhmcW9Bb3I2YmJidFc5UWVhLzdqZGhtaEhBYUc2ODA5Vk01UWdlMUhzWHBTcUVuZkhyVmZEeUUrUnJrYmMvZEdzNTNGTEExREJBPT0K",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0-alpha.1/Presetter.app.tar.gz"
+    }
+  }
+}
