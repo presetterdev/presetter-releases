@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0-beta.1",
+  "notes": "- improvements to generated tags\r\n- bugfixes for a few plugins and support for some new ones\r\n- new 3-pane UI and lots of little UI updates\r\n- performance improvements",
+  "pub_date": "2026-10-30T23:49:54Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWJhcGpEZEJ3UWdZNDZ6T2MyZlNueXRHR2VUbnpYM0o1dElYVHBOY1FPSTRaMTNZaVBDK0hqejFSdVNEaGJxeXJndWdOcDY2ck9jQnNEYUxQa1U2VlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDAzMDY2CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMC1iZXRhLjEKWG5SQmhoZlIzbUl0Q3BFalNGL3dYWmlNbTNqN0lqWDAxaERBR1NRQzYzKzhHNTRhVUYzWmhOejNPY3ZieDV3cnEyaHpYL2x2NDFIRXE0RVFXbEtoQmc9PQo=",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0-beta.1/Presetter.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWJhcGpEZEJ3UWdZNDZ6T2MyZlNueXRHR2VUbnpYM0o1dElYVHBOY1FPSTRaMTNZaVBDK0hqejFSdVNEaGJxeXJndWdOcDY2ck9jQnNEYUxQa1U2VlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDAzMDY2CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMC1iZXRhLjEKWG5SQmhoZlIzbUl0Q3BFalNGL3dYWmlNbTNqN0lqWDAxaERBR1NRQzYzKzhHNTRhVUYzWmhOejNPY3ZieDV3cnEyaHpYL2x2NDFIRXE0RVFXbEtoQmc9PQo=",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0-beta.1/Presetter.app.tar.gz"
+    }
+  }
+}
