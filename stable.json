@@ -1,0 +1,19 @@
+{
+  "version": "0.3.0",
+  "notes": "- minor UI improvements and fixes\r\n- Windows support",
+  "pub_date": "2026-11-05T18:59:34Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWVYd3R5aGVkZ0VxYmZzZUhXWnNaRGx4WmNVenVGSGpVb2N0MnluUis2TkVpVmZJMWI4R080bktCbHRCVTM5VE92ZlRpQjE2OTZidHBadWxaVkgwcVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxMjYwCWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMAoyZlJsWGtHTytaWXlzQm1zVEsvRVNvN2FNbWdLQ09DN3BFVVpLRVB3SUFnOEs4MTA2THlZdi9BZUFFTHpTbG04NkxFUSs3WTBwcGV4eEhPRzZaVnNDdz09Cg==",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0/Presetter.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWVYd3R5aGVkZ0VxYmZzZUhXWnNaRGx4WmNVenVGSGpVb2N0MnluUis2TkVpVmZJMWI4R080bktCbHRCVTM5VE92ZlRpQjE2OTZidHBadWxaVkgwcVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxMjYwCWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMAoyZlJsWGtHTytaWXlzQm1zVEsvRVNvN2FNbWdLQ09DN3BFVVpLRVB3SUFnOEs4MTA2THlZdi9BZUFFTHpTbG04NkxFUSs3WTBwcGV4eEhPRzZaVnNDdz09Cg==",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0/Presetter.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMVFRUTFzWTkxaTBRb2FjRUpMUU1GbTljaGNkRVNlKy9NZmR1dnYrdnpsVVBzS0ljSFZlbm41UVJPcEYrZFg0VkZzVFBBUjFxK0J0V3NYbmNqUUNqNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxMjYxCWZpbGU6UHJlc2V0dGVyXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApCNFduWUl1S1BWRThRbXpoVWJ4STVxbGo3U3J1UUNqN2dYaml5cVI2eHZ6KzAvL2JBbWdVMG5Wc3BpZG1jdW9YSEZubFoxWitXTHRCWHh6ZHhybVREUT09Cg==",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.0/Presetter_0.3.0_x64-setup.exe"
+    }
+  }
+}
