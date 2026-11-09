@@ -1,19 +1,19 @@
 {
-  "version": "0.3.1",
-  "notes": "- fix: one plugin with inaccessible/unreadable content no longer crashes exports and listings of other plugins, or of its own other presets",
-  "pub_date": "2026-11-09T00:14:32Z",
+  "version": "0.3.2",
+  "notes": "- fix: improve handling of NI/NKS content on external media",
+  "pub_date": "2026-11-09T13:37:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMVdnc3o0RzlaNklPbTl5MElCWDc1enA4dlBlTXVQZXRyMm5FZ0dMS1lJZ0ZFNjlSSGNHcDZYVU9yYURMS1YxUzVTa1VxVDhyZU9PN3BLNENNNXBmWGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgzMDM3CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMQpDTHNGb0ZhbEZmcWxjN3BEVk1KZDFodm1NLzNtcjBpRlpwTTNoTzEvdVJMT1Q2RWRDMDRLcW5GUHpza1pBRkZFQVdyT0wyT1FqU05FTVdpMDZWZzNBdz09Cg==",
-      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.1/Presetter.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWFGbHE5QmsvOTIvL2V3K0hyWEl1dU96eDhqVitDaVJoOUFKUkVOc0RWb2NOSWZZT05qb0d0N05Fam9laUppcHlmYWw4cjM3aVRiNlcxVmRNZGhzL1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMxMjI2CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMgo0b09WMnNBZi9GZzBud3crK2VydDFWSWNWZzkvRVNpaUtqdktwS2hYRE9EL1g1RVhGcW5Rb0cyMmpFSldkcGlZNGlOcWczV08yeWFFUk05OWkxN0ZBZz09Cg==",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.2/Presetter.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMVdnc3o0RzlaNklPbTl5MElCWDc1enA4dlBlTXVQZXRyMm5FZ0dMS1lJZ0ZFNjlSSGNHcDZYVU9yYURMS1YxUzVTa1VxVDhyZU9PN3BLNENNNXBmWGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgzMDM3CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMQpDTHNGb0ZhbEZmcWxjN3BEVk1KZDFodm1NLzNtcjBpRlpwTTNoTzEvdVJMT1Q2RWRDMDRLcW5GUHpza1pBRkZFQVdyT0wyT1FqU05FTVdpMDZWZzNBdz09Cg==",
-      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.1/Presetter.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMWFGbHE5QmsvOTIvL2V3K0hyWEl1dU96eDhqVitDaVJoOUFKUkVOc0RWb2NOSWZZT05qb0d0N05Fam9laUppcHlmYWw4cjM3aVRiNlcxVmRNZGhzL1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMxMjI2CWZpbGU6UHJlc2V0dGVyLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMgo0b09WMnNBZi9GZzBud3crK2VydDFWSWNWZzkvRVNpaUtqdktwS2hYRE9EL1g1RVhGcW5Rb0cyMmpFSldkcGlZNGlOcWczV08yeWFFUk05OWkxN0ZBZz09Cg==",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.2/Presetter.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMVd2SC9GM3ZLckRYM3oxZGJ2ZUhQK0dwYjB5bVRWdktTRjBTbDdVQXovYkE5Vi9VSklEZGRwS1ErMmhqRUVVeFZYZUY1dlBJMm9NaEtJUFROTkQ0U1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTgzMDM4CWZpbGU6UHJlc2V0dGVyXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQo2N2NFTGlIKy82YjZ2MlNkcHpGa3hGM3pGVUtEaFlWWkpMVHAwazROZ0dQTEh2SzdGaE9aczRvQmQ2ZVMrOStFWjEyZDVVQ2Ntd2tTUmF3OGYzS2RDUT09Cg==",
-      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.1/Presetter_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK1I5RkJieDRwMVVwVU5tK21kVWU4RERpelVXQ0dxWmJqV1kwMEZGNDNkNlJtbHlOSmF6MnRyMUFJMTlNT2kyV21BbXZBeHVhZldOdlREVEJPT1gyMzU2SGpKQVl2eXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMxMjI3CWZpbGU6UHJlc2V0dGVyXzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgo1VjBDa05OTjR6anFhdU83NGM5R3RxVVRTdmpxdWh4SFVKYStWWDhuekJWaWNHWk5kSTc4Y2ZMYUh1Nys3R1k3ek50NDMvU09VVW5RRzZsRmdTclpDZz09Cg==",
+      "url": "https://github.com/presetterdev/presetter-releases/releases/download/v0.3.2/Presetter_0.3.2_x64-setup.exe"
     }
   }
 }
